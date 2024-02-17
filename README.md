@@ -10,7 +10,7 @@ Búsqueda de Productos
 - `test_search_no_results`: Comprueba que las búsquedas sin resultados retornan una lista vacía, lo cual es importante para una adecuada gestión de la interfaz de usuario.
 
 - by Jelsy M. Diaz Jimenez - 23-0982
-  TI3-312 - Aseguramiento de la Calidad del Software
-  Ingenieria en Tecnologias de la Información y la Comunicación (TIC)
+  TI3-312 - Aseguramiento de la Calidad del Software -
+  Ingenieria en Tecnologias de la Información y la Comunicación (TIC) -
   Universidad Iberoamericana (UNIBE)
 - 
